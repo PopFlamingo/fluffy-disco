@@ -1,3 +1,3 @@
-# SwiftFlyAppDiscovery
+# Fluffy Disco
 
-A description of this package.
+This project demonstrates a bug in a beta Swift toolchain
